@@ -31,3 +31,18 @@
 [submodule "mib_translator.vim"]
 	path = mib_translator.vim
 	url = git://github.com/caglartoklu/mib_translator.vim
+[submodule "vim-go"]
+	path = vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "vim-ansible-yaml"]
+	path = vim-ansible-yaml
+	url = git://github.com/chase/vim-ansible-yaml.git
+[submodule "vim-fireplace"]
+	path = vim-fireplace
+	url = git://github.com/tpope/vim-fireplace.git
+[submodule "SimpylFold"]
+	path = SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold.git
